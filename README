@@ -1,0 +1,5 @@
+# autotools-template
+Autotools (aclocal, autoconf, automake) C project template.
+
+Usage:
+	Just change your programm name in src/Makefile.am
